@@ -1,3 +1,3 @@
 # Best .MD file
 
-<p align="center"><img src="https://moe-counter.glitch.me/get/@xnil6x?theme=gelbooru" alt="
+<p align="center"><img src="https://moe-counter.glitch.me/get/@.md?theme=gelbooru" alt="
